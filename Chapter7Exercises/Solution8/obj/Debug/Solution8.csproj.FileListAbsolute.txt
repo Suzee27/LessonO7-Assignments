@@ -1,0 +1,6 @@
+C:\Users\HP\documents\visual studio 2015\Projects\Chapter7Exercises\Solution8\bin\Debug\Solution8.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\Chapter7Exercises\Solution8\obj\Debug\Solution8.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\Chapter7Exercises\Solution8\bin\Debug\Solution8.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Chapter7Exercises\Solution8\bin\Debug\Solution8.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Chapter7Exercises\Solution8\obj\Debug\Solution8.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Chapter7Exercises\Solution8\obj\Debug\Solution8.pdb

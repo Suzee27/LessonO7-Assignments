@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2015\Projects\Lesson07Assignments\Lesson07Assignments\bin\Debug\Lesson07Assignments.exe.config
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\Lesson07Assignments\Lesson07Assignments\bin\Debug\Lesson07Assignments.exe.config
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\Lesson07Assignments\Lesson07Assignments\bin\Debug\Lesson07Assignments.exe
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\Lesson07Assignments\Lesson07Assignments\bin\Debug\Lesson07Assignments.pdb
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\Lesson07Assignments\Lesson07Assignments\obj\Debug\Lesson07Assignments.csprojAssemblyReference.cache
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\Lesson07Assignments\Lesson07Assignments\obj\Debug\Lesson07Assignments.csproj.CoreCompileInputs.cache
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\Lesson07Assignments\Lesson07Assignments\obj\Debug\Lesson07Assignments.exe
+C:\Users\KellzSpiration\Documents\Visual Studio 2019\Assignments\Lesson07Assignments\Lesson07Assignments\obj\Debug\Lesson07Assignments.pdb
+C:\Users\HP\Desktop\Assignments\Lesson07Assignments\Lesson07Assignments\bin\Debug\Lesson07Assignments.exe.config
+C:\Users\HP\Desktop\Assignments\Lesson07Assignments\Lesson07Assignments\obj\Debug\Lesson07Assignments.exe
+C:\Users\HP\Desktop\Assignments\Lesson07Assignments\Lesson07Assignments\obj\Debug\Lesson07Assignments.pdb

@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\Chapter7Exercises\Chapter7Exercises\bin\Debug\Chapter7Exercises.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Chapter7Exercises\Chapter7Exercises\bin\Debug\Chapter7Exercises.exe
+c:\users\hp\documents\visual studio 2015\Projects\Chapter7Exercises\Chapter7Exercises\bin\Debug\Chapter7Exercises.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Chapter7Exercises\Chapter7Exercises\obj\Debug\Chapter7Exercises.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Chapter7Exercises\Chapter7Exercises\obj\Debug\Chapter7Exercises.exe
+c:\users\hp\documents\visual studio 2015\Projects\Chapter7Exercises\Chapter7Exercises\obj\Debug\Chapter7Exercises.pdb
